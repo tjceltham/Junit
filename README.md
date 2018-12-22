@@ -1,5 +1,4 @@
 # Junit
-Junit
 
 JUnit allows users to create a suite of tests that can be run throughout development.
 
